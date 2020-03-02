@@ -16,3 +16,7 @@
 ## Day 3
 
 1. **Task1** : Create a portfolio site for any where company
+
+## Day 3
+
+1. **Task1** : [Basic CSS styles](link)
